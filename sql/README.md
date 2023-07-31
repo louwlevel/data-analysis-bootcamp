@@ -1,1 +1,1 @@
-SQL Bootcamp Exercises & Projects
+SQL Exercises & Projects
